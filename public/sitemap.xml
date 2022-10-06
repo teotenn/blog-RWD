@@ -2,38 +2,38 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://rwd-blog-test.onrender.com/post/first_shiny_app/</loc>
+    <loc>https://blog-rwd-test.onrender.com/post/first_shiny_app/</loc>
     <lastmod>2021-12-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://rwd-blog-test.onrender.com/post/</loc>
+    <loc>https://blog-rwd-test.onrender.com/post/</loc>
     <lastmod>2021-12-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://rwd-blog-test.onrender.com/tags/r-shiny/</loc>
+    <loc>https://blog-rwd-test.onrender.com/tags/r-shiny/</loc>
     <lastmod>2021-12-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://rwd-blog-test.onrender.com/</loc>
+    <loc>https://blog-rwd-test.onrender.com/</loc>
     <lastmod>2021-12-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://rwd-blog-test.onrender.com/tags/r-basics/</loc>
+    <loc>https://blog-rwd-test.onrender.com/tags/r-basics/</loc>
     <lastmod>2021-12-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://rwd-blog-test.onrender.com/post/fill_merged_cells/</loc>
+    <loc>https://blog-rwd-test.onrender.com/post/fill_merged_cells/</loc>
     <lastmod>2021-12-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://rwd-blog-test.onrender.com/tags/r-functions/</loc>
+    <loc>https://blog-rwd-test.onrender.com/tags/r-functions/</loc>
     <lastmod>2021-12-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://rwd-blog-test.onrender.com/tags/r-tips/</loc>
+    <loc>https://blog-rwd-test.onrender.com/tags/r-tips/</loc>
     <lastmod>2021-12-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://rwd-blog-test.onrender.com/post/functions/</loc>
+    <loc>https://blog-rwd-test.onrender.com/post/functions/</loc>
     <lastmod>2021-11-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://rwd-blog-test.onrender.com/about/</loc>
+    <loc>https://blog-rwd-test.onrender.com/about/</loc>
     <lastmod>2021-11-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://rwd-blog-test.onrender.com/archives/</loc>
+    <loc>https://blog-rwd-test.onrender.com/archives/</loc>
   </url><url>
-    <loc>https://rwd-blog-test.onrender.com/search/</loc>
+    <loc>https://blog-rwd-test.onrender.com/search/</loc>
   </url>
 </urlset>
