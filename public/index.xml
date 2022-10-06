@@ -6,7 +6,26 @@
     <description>Recent content on R with White Dwarf</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 20 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://blog-rwd-test.onrender.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 04 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://blog-rwd-test.onrender.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Map any region in the world with R - Part I: The basic map</title>
+      <link>https://blog-rwd-test.onrender.com/post/map_any_region_with_ggplot2_part_i/</link>
+      <pubDate>Tue, 04 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog-rwd-test.onrender.com/post/map_any_region_with_ggplot2_part_i/</guid>
+      <description>Scope of this post When you prepare for a job interview one of the questions they always tell you to prepare is &amp;ldquo;What are you most proud of?&amp;rdquo;. Personally I&amp;rsquo;ve never been asked that question in a job interview but it kept me thinking. Some years ago I developed the R code for the creation of maps of infrastructure for a Political Sciences project, and I can say that this is one of the projects I&amp;rsquo;m most proud of. However, it is also true what they say to developers, that nobody cares about how you did it. The final user only cared about what was done, while the research team about what are the possibilities.</description>
+    </item>
+    
+    <item>
+      <title>Minitutorial: make_logical any string</title>
+      <link>https://blog-rwd-test.onrender.com/post/minitut_makebool/</link>
+      <pubDate>Sun, 18 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog-rwd-test.onrender.com/post/minitut_makebool/</guid>
+      <description>Welcome to R minitutorials of R White Dwarf Since the beginning of this year I&amp;rsquo;ve been forced to abandon completely the blog for countless and rather abstract personal reasons that include personal health, family matters and changes in my daily activities including volunteer work as well as main job. As part of the last, I finally got hired for a position as R developer, which brings great joy to me.
+Thus, I&amp;rsquo;ve been using R more lately in all kinds of forms, including review and debug of small or simple code pieces that can result in practical quick hints for other R users, especially beginners or people with not much experience using R.</description>
+    </item>
+    
     <item>
       <title>My first shiny app</title>
       <link>https://blog-rwd-test.onrender.com/post/first_shiny_app/</link>
