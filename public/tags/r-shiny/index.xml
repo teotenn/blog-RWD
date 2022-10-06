@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>R shiny on R with White Dwarf</title>
+    <link>https://rwd-blog-test.onrender.com/tags/r-shiny/</link>
+    <description>Recent content in R shiny on R with White Dwarf</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 20 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://rwd-blog-test.onrender.com/tags/r-shiny/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My first shiny app</title>
+      <link>https://rwd-blog-test.onrender.com/post/first_shiny_app/</link>
+      <pubDate>Mon, 20 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://rwd-blog-test.onrender.com/post/first_shiny_app/</guid>
+      <description>I am happy and excited as I have just deployed my first shiny app on the web. You can find it running at shiny.rwhitedwarf.com (NOTE: I don&amp;rsquo;t have ssl certificate so, your browser might tell you that is not secure, but you can trust me that there&amp;rsquo;s no risk). I have created a few shiny apps in the past but I never deployed one, especially in an owned domain.
+The app can create a map of all cities listed in a table for a given country. The idea is to simulate a table with a list of organizations, franchises, shops, etc.</description>
+    </item>
+    
+  </channel>
+</rss>
