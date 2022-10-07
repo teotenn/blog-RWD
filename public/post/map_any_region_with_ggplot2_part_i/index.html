@@ -86,7 +86,7 @@
         <div class="col-12 header">
             <a class="title-main" href="https://blog-rwd-test.onrender.com">R with White Dwarf</a>
             
-            <span class="title-sub">A minimal Hugo theme.</span>
+            <span class="title-sub">A distant star coding in R</span>
             
         </div>
     </div>
@@ -245,13 +245,33 @@ map_country(&quot;Germany&quot;, c(-2, 22), c(47, 55))
 </article>
 
 
-<div class="license markdown-body">
-    <blockquote>
-        <p>Unless otherwise noted, the content of this site is licensed under <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"
-               target="_blank">CC BY-NC-SA 4.0</a>.</p>
-    </blockquote>
-</div>
 
+<div class="post-comment" data-comment="utterances">
+    <span class="post-comment-notloaded">
+        <i class="iconfont icon-chatbox-ellipses-sharp"></i>&nbsp;Load comments
+    </span>
+    <script>
+        function loadComment() {
+            var commentArea = document.querySelector('.post-comment');
+            var utterancesTheme = document.body.getAttribute('data-theme');
+            if (utterancesTheme === 'auto') {
+                utterancesTheme = window.matchMedia('(prefers-color-scheme: dark)').matches ? 'photon-dark' :
+                    'github-light';
+            } else {
+                utterancesTheme = utterancesTheme === 'dark' ? 'photon-dark' : 'github-light';
+            }
+            var s = document.createElement('script');
+            s.src = 'https://utteranc.es/client.js';
+            s.setAttribute('repo', 'teotenn\/blog-RWD');
+            s.setAttribute('issue-term', 'github-light');
+            s.setAttribute('theme', utterancesTheme);
+            s.setAttribute('crossorigin', 'anonymous');
+            s.setAttribute('async', '');
+            document.querySelector('.post-comment').appendChild(s);
+            document.querySelector('span.post-comment-notloaded').setAttribute('style', 'display: none;');
+        }
+    </script>
+</div>
 
 
             </div>
@@ -289,15 +309,19 @@ map_country(&quot;Germany&quot;, c(-2, 22), c(47, 55))
         <ul>
             
             <li>
-                <a href="https://github.com/dsrkafuu" target="_blank"><span>GitHub</span></a>
+                <a href="https://github.com/teotenn" target="_blank"><span>GitHub</span></a>
             </li>
             
             <li>
-                <a href="https://twitter.com/dsrkafuu" target="_blank"><span>Twitter</span></a>
+                <a href="https://www.r-bloggers.com/" target="_blank"><span>R Bloggers</span></a>
             </li>
             
             <li>
-                <a href="https://space.bilibili.com/19767474" target="_blank"><span>bilibili</span></a>
+                <a href="https://www.r-project.org/" target="_blank"><span>The R Project</span></a>
+            </li>
+            
+            <li>
+                <a href="https://www.bioconductor.org/" target="_blank"><span>Bioconductor</span></a>
             </li>
             
         </ul>
@@ -400,15 +424,19 @@ map_country(&quot;Germany&quot;, c(-2, 22), c(47, 55))
         <ul>
             
             <li>
-                <a href="https://github.com/dsrkafuu" target="_blank"><span>GitHub</span></a>
+                <a href="https://github.com/teotenn" target="_blank"><span>GitHub</span></a>
             </li>
             
             <li>
-                <a href="https://twitter.com/dsrkafuu" target="_blank"><span>Twitter</span></a>
+                <a href="https://www.r-bloggers.com/" target="_blank"><span>R Bloggers</span></a>
             </li>
             
             <li>
-                <a href="https://space.bilibili.com/19767474" target="_blank"><span>bilibili</span></a>
+                <a href="https://www.r-project.org/" target="_blank"><span>The R Project</span></a>
+            </li>
+            
+            <li>
+                <a href="https://www.bioconductor.org/" target="_blank"><span>Bioconductor</span></a>
             </li>
             
         </ul>
@@ -478,8 +506,8 @@ map_country(&quot;Germany&quot;, c(-2, 22), c(47, 55))
         <div class="col-12 footer">
             
             <span>&copy; 2021-2022
-                <a href="https://blog-rwd-test.onrender.com">DSRKafuU</a>
-                 | <a href="https://github.com/dsrkafuu/hugo-theme-fuji">Source code</a> 
+                <a href="https://blog-rwd-test.onrender.com">R White Dwarf</a>
+                
                 | Powered by <a href="https://github.com/dsrkafuu/hugo-theme-fuji/"
                    target="_blank">Fuji-v2</a> &amp; <a href="https://gohugo.io/"
                                                     target="_blank">Hugo</a> 

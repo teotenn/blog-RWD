@@ -31,12 +31,12 @@ home = ["HTML", "RSS", "SearchIndex"]
 post = "/:section/:filename/" # Custom post links, e.g. "/:year/:month/:title/"
 
 [params]
-author = "DSRKafuU"                # You can also set author in post front matter individually
-subTitle = "A minimal Hugo theme."
+author = "R White Dwarf"                # You can also set author in post front matter individually
+subTitle = "A distant star coding in R"
 defaultTheme = "auto"              # default theme when first visit (auto|dark|light)
 
 # Source URL of the website, will appear in the footer
-sourceURL = "https://github.com/dsrkafuu/hugo-theme-fuji"
+sourceURL = ""
 
 # Use CloudFlare Workers to accelerate the Google Analytics
 # If you are using this please comment the googleAnalytics above
@@ -56,7 +56,7 @@ showReadTime = false
 showLicenseInFooter = false
 
 # License at the end of each post
-showLicense = true
+showLicense = false
 showToc = true
 
 # Copyright
@@ -65,7 +65,7 @@ copyrightStartYear = "2021"
 # Open Graph & Twitter Card variables
 # You can also set description and images in post front matter individually
 description = "A minimal Hugo theme with nice theme color."
-og = "/img/og.png"                                          # This will use the image called og.png in static/img folder
+og = "/favicon/RWD-favicon-48x48.png"                                          # This will use the image called og.png in static/img folder
 
 # Posts shown in homepage
 mainSections = ["post"]
@@ -74,7 +74,7 @@ mainSections = ["post"]
 # bgmImageChart = "000000"
 
 # License
-license = "CC BY-NC-SA 4.0"
+license = "R White Dwarf all rights reserved"
 licenseLink = "http://creativecommons.org/licenses/by-nc-sa/4.0/"
 
 # Comments
@@ -138,16 +138,20 @@ weight = 5
 
 [[menu.link]]
 name = "GitHub"
-url = "https://github.com/dsrkafuu"
+url = "https://github.com/teotenn"
 weight = 1
 [[menu.link]]
-name = "Twitter"
-url = "https://twitter.com/dsrkafuu"
+name = "R Bloggers"
+url = "https://www.r-bloggers.com/"
 weight = 2
 [[menu.link]]
-name = "bilibili"
-url = "https://space.bilibili.com/19767474"
+name = "The R Project"
+url = "https://www.r-project.org/"
 weight = 3
+[[menu.link]]
+name = "Bioconductor"
+url = "https://www.bioconductor.org/"
+weight = 4
 
 [build]
 noJSConfigInAssets = true
