@@ -1,4 +1,5 @@
 baseURL = "https://blog-rwd-test.onrender.com"
+# baseURL = "https://blog.rwhitedwarf.com"
 title = "R with White Dwarf"
 
 theme = "fuji"
@@ -31,6 +32,7 @@ home = ["HTML", "RSS", "SearchIndex"]
 post = "/:section/:filename/" # Custom post links, e.g. "/:year/:month/:title/"
 
 [params]
+# RWD color  "bg-blue-900"#
 author = "R White Dwarf"                # You can also set author in post front matter individually
 subTitle = "A distant star coding in R"
 defaultTheme = "auto"              # default theme when first visit (auto|dark|light)
